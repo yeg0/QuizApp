@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="app_title">QuizApp</string>
+    <string name="app_subtitle">General Knowledge Quiz</string>
+    <string name="question_one">1. Which is the first working day of the week?</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="monday">Monday</string>
+    <string name="thursday">Thursday</string>
+    <string name="sunday">Sunday</string>
+    <string name="question_two">2. What text is usually displayed on the simple application created during the start of a coding session?</string>
+    <string name="question_two_hint">Your answer here</string>
+    <string name="question_three">3. Which of these two places are naturally considered the most ideal for studying?</string>
+    <string name="home">Home</string>
+    <string name="classroom">Classroom</string>
+    <string name="stadium">Stadium</string>
+    <string name="library">Library</string>
+    <string name="question_five">5. Which of these is the most popular sport in the USA?</string>
+    <string name="basketball">Basketball</string>
+    <string name="am_football">American Football</string>
+    <string name="baseball">Baseball</string>
+    <string name="hockey">Hockey</string>
+    <string name="question_four">4. Which of these logos represent cars made by Audi?</string>
+    <string name="score_text">Your score is :</string>
+    <string name="zero"> </string>
+    <string name="submit_answers">submit</string>
+    <string name="reset">Reset</string>
+
+    <string name="q1Answer">The correct answer is "Monday"</string>
+    <string name="q2Answer">The correct answer is "Hello World!"</string>
+    <string name="q3Answer">The correct answer is "Classroom" and "Library"</string>
+    <string name="q4Answer">The correct answer is Option 3</string>
+    <string name="q5Answer">The correct answer is "American Football"</string>
+</resources>
